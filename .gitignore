@@ -1,0 +1,23 @@
+#model file
+original_model
+trained_model
+model/*
+#dataset
+dataset
+
+#extraciotn
+claim_extraction.ipynb
+claim_extraction.py
+meta_data_extraction.ipynb
+meta_data_extraction.py
+
+#hyperparameter tuning
+hyperparameters.json
+
+results
+.venv
+.vscode
+
+runs
+results
+logs
