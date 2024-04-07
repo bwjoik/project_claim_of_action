@@ -21,3 +21,9 @@ results
 runs
 results
 logs
+.gitignore
+tempCodeRunnerFile.python
+run_T5_model.py
+run_T5_model.ipynb
+trainer_for_T5.py
+trainer_for_T5.ipynb
